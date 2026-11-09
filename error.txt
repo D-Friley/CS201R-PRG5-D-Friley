@@ -1,0 +1,20 @@
+mediaList.txt, line 8: Invalid integer in rating: Drama
+mediaList.txt, line 12: Expected at least 8 fields.
+mediaList.txt, line 21: Rating must be between 1 and 10.
+mediaList.txt, line 41: Invalid integer in NYTList: ERROR
+mediaList.txt, line 46: Invalid integer in length: INVALID
+mediaList.txt, line 68: Invalid integer in Top40: ERROR
+mediaList.txt, line 76: Expected at least 8 fields.
+mediaCommands.txt, line 6: Command rating must be between 1 and 10.
+mediaCommands.txt, line 7: Command rating must be between 1 and 10.
+mediaCommands.txt, line 10: Command rating must be between 1 and 10.
+mediaCommands.txt, line 13: Rating must be between 1 and 10.
+mediaCommands.txt, line 15: Invalid integer in rating: ERROR
+mediaCommands.txt, line 16: Invalid integer in length: ERROR
+mediaCommands.txt, line 17: Invalid integer in Top40: ERROR
+mediaCommands.txt, line 20: Invalid integer in NYTList: ERROR
+mediaCommands.txt, line 22: Invalid integer in year released: ERROR
+mediaCommands.txt, line 30: Command rating must be between 1 and 10.
+Movie not found: Lost
+Actor not found: Victor Lee
+Key name not found: Harrison Ford
